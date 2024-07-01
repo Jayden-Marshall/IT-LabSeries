@@ -8,7 +8,7 @@
 ![ISO Selection](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/IsoSelection.md)
 
 **Installation Start**:
-![Installation Start](https://path_to_your_image/installation-start.png "Installation Start")
+![Installation Start](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/InstallationStart.md)
 
 **First Boot**:
 ![First Boot](https://path_to_your_image/first-boot.png "First Boot")
