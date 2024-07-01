@@ -1,5 +1,5 @@
 **VirtualBox Download**:
-![VirtualBox Download](https://path_to_your_image/virtualbox-download.png "Download VirtualBox")
+![VirtualBox Download](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/ImageVBDownload.md")
 
 **Creating a New VM**:
 ![Creating a New VM](https://path_to_your_image/creating-new-vm.png "Creating a New VM")
