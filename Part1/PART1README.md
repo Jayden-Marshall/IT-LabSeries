@@ -1,6 +1,6 @@
 # IT Lab Setup Part 1
 
-This repository provides a guide and resources for setting up a basic IT lab using VirtualBox and Windows Server 2016. This lab is intended for beginners in IT, particularly those interested in help desk and IT support roles.
+This repository provides a guide and resources for setting up a basic IT lab using VirtualBox and Windows Server 2016. This lab is intended for beginners in IT, particularly those interested in Help Desk and IT support roles.
 
 ## Requirements
 
