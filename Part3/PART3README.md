@@ -30,7 +30,7 @@ We will use the Active Directory Users and Computers management console to creat
 3. Right-click on the `Users` container and select **Copy** on an existing user like `Administrator` to use as a template.
 4. Enter the new user details for "HelpDesk". Set a strong password and specify the necessary group memberships based on required access levels.
 
-    ![Creating Help Desk User](https://path_to_your_image/create-help-desk-user.png "Creating the HelpDesk User Account")
+    ![Creating Help Desk User](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part3/ImagesCreatingHelpDeskUser.md)
 
 ### 3. Essential CMD Commands for IT Support
 
