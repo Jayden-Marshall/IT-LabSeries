@@ -11,5 +11,5 @@
 ![Installation Start](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/InstallationStart.md)
 
 **First Boot**:
-![First Boot](https://path_to_your_image/first-boot.png "First Boot")
+![First Boot](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/FirstBoot.md)
 
