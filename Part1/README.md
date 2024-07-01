@@ -39,7 +39,7 @@ This repository provides a guide and resources for setting up a basic IT lab usi
 2. Name the VM (e.g., `Server 2016 Lab`), set the type to `Microsoft Windows`, and version to `Windows 2016 (64-bit)`.
 3. Allocate at least 4GB of RAM (8GB recommended).
 4. Create a virtual hard disk (VDI) with at least 50GB of storage.
-5. Start the VM and select the Windows Server 2016 ISO file as the startup disk.
+5. Start the VM, and select the Windows Server 2016 ISO file as the startup disk.
 
 ### 6. Install Windows Server 2016
 
