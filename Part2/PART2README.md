@@ -36,7 +36,7 @@ Setting up AD DS turns the server into a domain controller, managing network res
 4. Proceed to the 'Roles' section and check 'Active Directory Domain Services'. Add all required features and tools when prompted.
 5. Continue and finalize the installation. Do not close the wizard until you see the prompt to configure AD DS.
 
-   ![Installing Active Directory Domain Services](https://path_to_your_image/install-ad-ds.png "Installing Active Directory Domain Services")
+   ![Installing Active Directory Domain Services](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part2/ImageInstallingADDS.md)
 
 ### 3. Promote the Server to a Domain Controller
 
