@@ -5,7 +5,7 @@
 ![Creating a New VM](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/Creating%20a%20New%20VM.md)
 
 **ISO Selection**:
-![ISO Selection](https://path_to_your_image/iso-selection.png "ISO Selection")
+![ISO Selection](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part1/IsoSelection.md)
 
 **Installation Start**:
 ![Installation Start](https://path_to_your_image/installation-start.png "Installation Start")
