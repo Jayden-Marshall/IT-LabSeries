@@ -60,7 +60,7 @@ We will use the Active Directory Users and Computers management console to creat
 Activating the Recycle Bin feature allows for the recovery of deleted objects within Active Directory.
 
 1. Open **Active Directory Administrative Center**.
-2. Right-click your domain and select **Enable Recycle Bin**.
+2. Left-click your domain and select **Enable Recycle Bin**.
 3. Confirm the action and wait for the feature to replicate across the domain controllers.
 
 ![Enabling Recycle Bin in Active Directory](https://path_to_your_image/create-help-desk-user.png "Creating the HelpDesk User Account")
