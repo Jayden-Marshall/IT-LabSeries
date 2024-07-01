@@ -24,7 +24,7 @@ This repository provides a guide and resources for setting up a basic IT lab usi
 
 ### 3. Enable Virtualization in BIOS
 
-1. Restart your computer and enter BIOS/UEFI settings (usually by pressing `F2`, `F10`, `Del`, or `Esc` during boot).
+1. Restart your computer, and enter BIOS/UEFI settings (usually by pressing `F2`, `F10`, `Del`, or `Esc` during boot).
 2. Find the `Virtualization Technology` setting and enable it.
 3. Save and exit BIOS.
 
