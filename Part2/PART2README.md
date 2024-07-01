@@ -47,7 +47,6 @@ After installing AD DS, the next step involves promoting the server to a domain 
 3. Follow the prompts to configure the domain controller settings, including DSRM (Directory Services Restore Mode) password.
 4. Confirm the settings and click 'Install'. The server will restart automatically upon completion.
 
-   ![Promote Server](https://path_to_your_image/promote-server.png "Promoting Server to Domain Controller")
 
 ## What's Next?
 
