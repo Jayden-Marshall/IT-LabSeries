@@ -39,3 +39,28 @@ We will use the Active Directory Users and Computers management console to creat
 - **IP Configuration**: View detailed network configuration.
   ```cmd
   ipconfig /all
+
+- **Check Connected Network Drives:** Lists all network drives connected to the system along with their statuses.
+  ```cmd
+  net use
+
+- **User Account Details:** Fetches detailed information about the "HelpDesk" account, such as password last set, account expiration, and group memberships.
+  ```cmd
+  net user HelpDesk /domain
+
+- **IP Configuration Refresh:** This command renews the IP address of the computer to resolve network connectivity issues.
+  ```cmd
+  ipconfig /renew
+- **Displaying TCP/IP Network Configuration:** Shows the contents of the DNS client cache, useful for troubleshooting DNS issues.
+  ```cmd
+  ipconfig /displaydns
+
+### 4. Enabling Recycle Bin in Active Directory
+
+Activating the Recycle Bin feature allows for the recovery of deleted objects within Active Directory.
+
+1. Open **Active Directory Administrative Center**.
+2. Right-click your domain and select **Enable Recycle Bin**.
+3. Confirm the action and wait for the feature to replicate across the domain controllers.
+
+![Enabling Recycle Bin in Active Directory](https://path_to_your_image/create-help-desk-user.png "Creating the HelpDesk User Account")
