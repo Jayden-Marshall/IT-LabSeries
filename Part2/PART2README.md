@@ -24,7 +24,7 @@ Renaming the server provides a simpler and more manageable reference throughout 
 4. Click 'Change...' and enter a new computer name, such as `Server2016`.
 5. Click 'OK', and restart the server for the changes to take effect.
 
-   ![Change Computer Name](https://path_to_your_image/change-computer-name.png "Changing the Computer Name")
+   ![Change Computer Name](https://github.com/Jayden-Marshall/IT-LabSeries/blob/main/Part2/ImageChangeComputerName.md)
 
 ### 2. Install Active Directory Domain Services
 
